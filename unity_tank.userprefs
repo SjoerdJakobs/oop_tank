@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\playerTank.cs">
+    <Files>
+      <File FileName="..\..\unity\Assets\scripts\MoveBullet.cs" Line="28" Column="35" />
+      <File FileName="..\..\unity\Assets\scripts\EnemyShoots.cs" Line="1" Column="1" />
+      <File FileName="..\..\unity\Assets\scripts\CamelBehaviour.cs" Line="1" Column="1" />
+      <File FileName="..\..\unity\Assets\scripts\PlayerMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\tank.cs" Line="47" Column="1" />
+      <File FileName="Assets\scripts\playerTank.cs" Line="63" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
